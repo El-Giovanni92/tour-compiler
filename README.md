@@ -46,7 +46,7 @@ To execute the compiler with a different input file, run:
 ```
 The input file should follow the correct format, as shown in input.txt.
 
-### Project Documentation  
+## Project Documentation  
 For an in-depth explanation of the project, please refer to the [Project Report](Project%20Report.pdf).
 
 
