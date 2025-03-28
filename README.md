@@ -46,5 +46,5 @@ To execute the compiler with a different input file, run:
 ```
 The input file should follow the correct format, as shown in input.txt.
 
-## Contributors
-@madoverflow
+### Contributors
+[madoverflow](https://github.com/madoverflow)
