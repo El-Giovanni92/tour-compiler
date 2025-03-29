@@ -32,7 +32,7 @@ make exe
 ```
 
 ## Usage
-After building the executable, you can run the compiler with the default input file (input.txt) using:
+After building the executable, you can run the compiler with the default input file ([input.txt](tour-compiler/input.txt)) using:
 
 ```bash
 ./exe <input.txt
@@ -44,7 +44,7 @@ To execute the compiler with a different input file, run:
 ```bash
 ./exe <filename.txt
 ```
-The input file should follow the correct format, as shown in input.txt.
+The input file should follow the correct format, as shown in [input.txt](tour-compiler/input.txt).
 
 ## Project Documentation  
 For an in-depth explanation of the project, please refer to the [Project Report](Project%20Report.pdf).
