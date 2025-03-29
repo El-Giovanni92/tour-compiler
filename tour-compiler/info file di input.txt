@@ -1,6 +1,0 @@
-input.txt, input2.txt -> file di input corretti
-
-inputErrLes -> file di input con errore lessicale. (Città: ROmA)
-inputErrLes2 -> file di input con errore lessicale. (PrezzoA --> 170,50 EURO.) (Virgola non accettata per il prezzo)
-
-inputErrSin -> file di input con errore sintattico. (Location:... viene prima di Città:... per la tappa di MILANO)
